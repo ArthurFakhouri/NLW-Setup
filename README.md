@@ -27,22 +27,28 @@ Habits é um projeto do evento NLW Setup realizado pela Rocketseat, que permite 
 ## 🔧 Como Executar
 Navegue até a pasta onde clonou o projeto e execute os seguintes comandos no terminal:
 
-01 - Rode o servidor
- I - cd server (Navegar até a pasta client do projeto)
- II - npm install (Esse comando irá instalar todas as dependências do projeto)
- III - npm run dev (Esse comando irá executar o projeto, por default estará rodando em: http://localhost:3333 caso nenhuma outra aplicação esteja rodando na porta)
+<h2>Rode o servidor</h2>
+<ol type="I">
+	<li>cd server (Navegar até a pasta client do projeto)</li>
+ 	<li>npm install (Esse comando irá instalar todas as dependências do projeto)</li>
+ 	<li>npm run dev (Esse comando irá executar o projeto, por default estará rodando em: http://localhost:3333 caso nenhuma outra aplicação esteja rodando na porta)</li>
+</ol>
 
-Web:
+<h2>Web:</h2>
   Após inicializar o servidor, execute:
-  I - cd client (Navegar até a pasta client do projeto)
-  II - npm install (Esse comando irá instalar todas as dependências do projeto)
-  III - npm run dev (Esse comando irá executar o projeto e por default estará rodando em: http://localhost:3000 caso nenhuma outra aplicação esteja rodando na porta)
-
-Mobile:
+ <ol type="I">
+	<li>cd client (Navegar até a pasta client do projeto)</li>
+	<li>npm install (Esse comando irá instalar todas as dependências do projeto)</li>
+  <li>npm run dev (Esse comando irá executar o projeto e por default estará rodando em: http://localhost:3000 caso nenhuma outra aplicação esteja rodando na porta)</li>
+</ol>
+	
+<h2>Mobile:</h2>
   Após inicializar o servidor, execute:
-  I - cd mobile (Navegar até a pasta mobile do projeto)
-  II - npm install (Esse comando irá instalar todas as dependências do projeto)
-  III - npm run dev (Esse comonado irá executar a aplicação)
+<ol type="I">
+	<li>cd mobile (Navegar até a pasta mobile do projeto)</li>
+	<li>npm install (Esse comando irá instalar todas as dependências do projeto)</li>
+	<li>npm run dev (Esse comonado irá executar a aplicação)</li>
+</ol>
 
 ## 📽️ Demonstração
 
